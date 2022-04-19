@@ -5,6 +5,7 @@
   "sdk": "org.gnome.Sdk",
   "command": "com.github.alexkdeveloper.somafm",
   "finish-args": [
+     "--device=dri",
      "--share=ipc",
      "--share=network",
      "--socket=fallback-x11",
@@ -31,8 +32,8 @@
             {
                 "type" : "git",
                 "url" : "https://github.com/alexkdeveloper/somafm.git",
-                "tag" : "1.1.1",
-                "commit" : "a22b390c184fc259688caa1281b9c6a7665e26e1"
+                "tag" : "1.1.2",
+                "commit" : "f5a84b0a854761c672830e5704f2d8d393df2e7e"
             }
         ]
       }
