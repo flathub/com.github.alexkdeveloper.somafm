@@ -32,8 +32,8 @@
             {
                 "type" : "git",
                 "url" : "https://github.com/alexkdeveloper/somafm.git",
-                "tag" : "1.1.4",
-                "commit" : "49ab9f5dafdc31c4b97acbdccdbfd051641b313b"
+                "tag" : "1.1.5",
+                "commit" : "b5b09f993b2f41e3060ce33336dde371dd0773eb"
             }
         ]
       }
