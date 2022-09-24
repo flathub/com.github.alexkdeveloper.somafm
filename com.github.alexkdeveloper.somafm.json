@@ -1,7 +1,7 @@
 {
   "app-id": "com.github.alexkdeveloper.somafm",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "42",
+  "runtime-version": "43",
   "sdk": "org.gnome.Sdk",
   "command": "com.github.alexkdeveloper.somafm",
   "finish-args": [
@@ -32,8 +32,8 @@
             {
                 "type" : "git",
                 "url" : "https://github.com/alexkdeveloper/somafm.git",
-                "tag" : "1.1.8",
-                "commit" : "82c0df8656f7a3c1ed43fa522e875d89cf6f8749"
+                "tag" : "1.1.9",
+                "commit" : "0470e27f31e7e4b56f2c3ddd0d0bcb94a755dd61"
             }
         ]
       }
