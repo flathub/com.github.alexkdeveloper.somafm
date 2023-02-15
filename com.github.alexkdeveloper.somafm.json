@@ -30,9 +30,9 @@
         "buildsystem": "meson",
         "sources": [
             {
-                "type" : "git",
-                "url" : "https://github.com/alexkdeveloper/somafm.git",
-                "tag" : "1.2.4"
+                "type": "git",
+                "url": "https://github.com/alexkdeveloper/somafm.git",
+                "tag": "1.2.4"
             }
         ]
       }
